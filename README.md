@@ -1,7 +1,7 @@
 # sozialabgaben
 
 ## Links
-- https://www.tk-lex.tk.de - Techniker --> Gehaltsrechner
+- https://www.tk-lex.tk.de - Techniker --> Gehaltsrechner --> Anwendung öffnen
 
 ## Tags
 - Steuer
